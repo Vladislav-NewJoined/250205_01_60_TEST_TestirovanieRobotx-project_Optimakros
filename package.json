@@ -1,0 +1,17 @@
+{
+  "name": "robototx",
+  "version": "1.0.0",
+  "description": "# 1.Запустите команду npm start # 2.Перейдите на http://localhost:3000/ # 3.Найдите баги вы вправе считать что это полностью гототвый сайт.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server -p 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "selenium-webdriver": "^4.28.1"
+  },
+  "keywords": []
+}
