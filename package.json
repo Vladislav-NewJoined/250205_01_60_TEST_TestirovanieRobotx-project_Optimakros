@@ -10,8 +10,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chromedriver": "^133.0.0",
     "http-server": "^14.1.1",
     "selenium-webdriver": "^4.28.1"
   },
-  "keywords": []
+  "keywords": [],
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladislav-NewJoined/250205_01_60_TEST_TestirovanieRobotx-project_Optimakros.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vladislav-NewJoined/250205_01_60_TEST_TestirovanieRobotx-project_Optimakros/issues"
+  },
+  "homepage": "https://github.com/Vladislav-NewJoined/250205_01_60_TEST_TestirovanieRobotx-project_Optimakros#readme"
 }
